@@ -2,7 +2,7 @@
 confirm('PERINGATAN !! \n Website ini masih dalam tahap pengembangan');
 
 
-cconsole.log(`%c
+cconsole.log('
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 .                                                                                 .
 .                      uuuuuuu                                                    .
